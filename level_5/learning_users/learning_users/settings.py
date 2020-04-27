@@ -142,3 +142,5 @@ MEDIA_URL = '/media/'
 
 
 LOGIN_URL = '/basic_app/user_login'
+
+ALLOWED_HOSTS = ['127.0.0.1', 'nirajparte.pythonanywhere.com']
